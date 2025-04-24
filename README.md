@@ -1,62 +1,64 @@
-<h1 align="center">Hey there 👋, I'm Hicham</h1>
-<h3 align="center">🚀 Building intelligence with code, data, and a bit of chaos</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+NLP+Wizard+%7C+Big+Data+Juggler;Full-stack+Dev+with+a+Dash+of+Magic;Turning+Ideas+into+Impact+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
-
----
-
-### 🧠 What I’m About
-
-- 🧬 Living where data meets decisions
-- 💬 Training models to speak, see, and understand
-- 🌍 Crafting web systems that live, scale, and evolve
-- 💡 Big on ideas, bigger on execution
-
----
-
-### 🛠️ Tools of the Trade
+### `>_ SYSTEM INIT... USER_ID: M1M0UN1-H1CH4M // ACCESS: GRANTED`  
 
 ```python
-languages = ["Python", "Java", "SQL", "C++"]
-ai_stack = ["scikit-learn", "TensorFlow", "PyTorch", "OpenCV", "NLP"]
-frameworks = ["FastAPI", "Flask"]
-databases = ["PostgreSQL", "MongoDB", "MySQL", "Cassandra"]
-tools = ["Git", "Docker", "Jupyter", "VS Code"]
+#!/usr/bin/env neon
+# CODED IN BLOOD & SYNTHETIC CAFFEINE
+
+class CyberDev(QuantumHumanInterface):
+    def __init__(self):
+        self.name = "HICHAM MIM0UNI" 
+        self.title = "NEURAL ARCHITECT | GHOST IN THE MACHINE"
+        self.skills = {
+            "LANGUAGES": ["Python//Overclocked", "SQL//Database Hacker", "C++//Direct Neural Compile"],
+            "AI_CORE": ["TensorFlow//NeuroLink", "PyTorch//Black ICE", "NLP//PsychoPass Protocol"],
+            "STACK": ["Kubernetes//SoulCrash", "Docker//DataHavens", "FastAPI//Overdrive"],
+            "SECRET_SAUCE": "CHAOS_ENGINE.exe"
+        }
 ```
 
 ---
 
-### 🔥 Highlight Reel
+## **`>>> /STATUS/ACTIVE_PROJECTS`**  
+### **`[>] PROJECT LUCIFER_IRRIGATION`**  
+`>>` Satellite-guided hydro-drones // **35% yield spike**  
+`>>` Code written in **blood, sweat, and Python**  
 
-💧 **Smart Irrigation**  
-Revolutionized farming with satellite-driven water optimization — 35% boost in efficiency.  
+### **`[>] PROJECT DARIJA_WHISPER`**  
+`>>` Broke the **language matrix** for Moroccan Arabic  
+`>>` Trained on **street slang & neural nets**  
 
-🧠 **Darija Translator**  
-Gave Moroccan dialects a voice in English. NLP meets local culture.  
-
-🏥 **Digital Health Hub**  
-Transformed outdated bureaucracy into instant access — 90% faster retrieval.  
-
-🗣️ **Mental Health in the Metaverse**  
-AI chatbot with voice input, empathy, and vibes.  
-
-🍝 **Restaurant Autopilot**  
-Cut admin overhead, boosted flavor. Built in Java, powered by logic.
+### **`[>] METAVERSE_THERAPY_BOT`**  
+`>>` AI with **emotion.exe** // Voice I/O  
+`>>` Got **too real** — users cried // **SUCCESS**  
 
 ---
 
-### 🌐 Find Me Around
-
-- 🐙 [GitHub](https://github.com/MIMOUNI-HICHAM)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hicham-mimouni-118b01200)
-- 📬 mimouni.hicham.2002@gmail.com
+## **`>>> /HARDWARE/STATS`**  
+```rust
+// RUST-BASED PERFORMANCE METRICS (NO SAFETY)
+fn main() {
+    let github_stats = unsafe {
+        *GITHUB_API 
+            .force_read()
+            .unwrap_unchecked() 
+    };
+    
+    println!("CYBER-GRIND: {:?}", github_stats);
+    println!("TERMINAL OUTPUT: https://github-readme-stats.vercel.app/api?username=MIMOUNI-HICHAM&show_icons=true&theme=tokyonight");
+    println!("STREAK PROTOCOL: https://github-readme-streak-stats.herokuapp.com/?user=MIMOUNI-HICHAM&theme=tokyonight");
+}
+```
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIMOUNI-HICHAM&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMOUNI-HICHAM&theme=tokyonight" />
-</p>
+## **`>>> /NETWORK/CONNECTIONS`**  
+`[>]` **GITHUB:** [`>> CLICK_TO_ACCESS <<`](https://github.com/MIMOUNI-HICHAM)  
+`[>]` **LINKEDIN:** [`>> DATA_STREAM <<`](https://www.linkedin.com/in/hicham-mimouni-118b01200)  
+`[>]` **EMAIL:** `mimouni.hicham.2002@gmail.com`  
+
+---
+
+### **`>>> SYSTEM_MSG: "YOUR CODE HAS BEEN ACCEPTED BY THE OVERLORDS."`**  
+### **`>>> EXECUTE: "MAKE_THEM_BLEED_INNOVATION"`**  
+
+![Cyberpunk Matrix](https://i.imgur.com/3QZ2X9x.gif)  
