@@ -1,6 +1,3 @@
----
-
-```md
 <h1 align="center">Hey there 👋, I'm Hicham</h1>
 <h3 align="center">🚀 Building intelligence with code, data, and a bit of chaos</h3>
 
@@ -16,20 +13,6 @@
 - 💬 Training models to speak, see, and understand
 - 🌍 Crafting web systems that live, scale, and evolve
 - 💡 Big on ideas, bigger on execution
-
----
-
-### 🛠️ Tools of the Trade
-
-```python
-languages = ["Python", "Java", "SQL", "C++"]
-ai_stack = ["scikit-learn", "TensorFlow", "PyTorch", "OpenCV", "NLP"]
-frameworks = ["FastAPI", "Flask"]
-databases = ["PostgreSQL", "MongoDB", "MySQL", "Cassandra"]
-tools = ["Git", "Docker", "Jupyter", "VS Code"]
-```
-
----
 
 ### 🔥 Highlight Reel
 
@@ -63,6 +46,3 @@ Cut admin overhead, boosted flavor. Built in Java, powered by logic.
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMOUNI-HICHAM&theme=tokyonight" />
 </p>
-```
-
----
