@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Building intelligence with code, data, and a bit of chaos</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+NLP+Wizard+%7C+Big+Data+Juggler;Full-stack+Dev+with+a+Dash+of+Magic;Turning+Ideas+into+Impact+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+AI+Engineer+%7C+NLP+Wizard+%7C+Big+Data+Juggler;Turning+Ideas+into+Impact+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
