@@ -25,7 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIMOUNI-HICHAM&show_icons=true&theme=tokyonight" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMOUNI-HICHAM&theme=tokyonight" />
 </p>
