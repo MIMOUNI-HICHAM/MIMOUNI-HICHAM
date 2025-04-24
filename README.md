@@ -1,56 +1,68 @@
-```markdown
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> CYBERPUNK PROFILE // HICHAM MIM0UNI
+---
 
-```
-```python
-# SYSTEM INIT... USER_ID: M1M0UN1-H1CH4M // ACCESS: GRANTED
+```md
+<h1 align="center">Hey there 👋, I'm Hicham</h1>
+<h3 align="center">🚀 Building intelligence with code, data, and a bit of chaos</h3>
 
-class CyberDev:
-    def __init__(self):
-        self.name = "HICHAM MIM0UNI"
-        self.title = "NEURAL ARCHITECT | GHOST IN THE MACHINE"
-        self.skills = {
-            "LANGUAGES": ["Python//Overclocked", "SQL//Database Hacker", "C++//Direct Neural Compile"],
-            "AI_CORE": ["TensorFlow", "PyTorch", "NLP"],
-            "STACK": ["Kubernetes", "Docker", "FastAPI"],
-            "SECRET_SAUCE": "CHAOS_ENGINE"
-        }
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+NLP+Wizard+%7C+Big+Data+Juggler;Full-stack+Dev+with+a+Dash+of+Magic;Turning+Ideas+into+Impact+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-## 🚀 ACTIVE PROJECTS
+---
 
-### [>] PROJECT LUCIFER_IRRIGATION  
-`>>` Satellite-guided hydro-drones // 35% yield spike  
-`>>` Code written in blood, sweat, and Python  
+### 🧠 What I’m About
 
-### [>] PROJECT DARIJA_WHISPER  
-`>>` Broke the language matrix for Moroccan Arabic  
-`>>` Trained on street slang & neural nets  
+- 🧬 Living where data meets decisions
+- 💬 Training models to speak, see, and understand
+- 🌍 Crafting web systems that live, scale, and evolve
+- 💡 Big on ideas, bigger on execution
 
-### [>] METAVERSE_THERAPY_BOT  
-`>>` AI with emotion.exe // Voice I/O  
-`>>` Got too real — users cried // SUCCESS  
+---
 
-## ⚡ TECH STACK
+### 🛠️ Tools of the Trade
 
 ```python
-languages = ["Python", "SQL", "C++"]
-ai_stack = ["TensorFlow", "PyTorch", "NLP"]
+languages = ["Python", "Java", "SQL", "C++"]
+ai_stack = ["scikit-learn", "TensorFlow", "PyTorch", "OpenCV", "NLP"]
 frameworks = ["FastAPI", "Flask"]
-databases = ["PostgreSQL", "MongoDB"]
-tools = ["Git", "Docker", "VS Code"]
+databases = ["PostgreSQL", "MongoDB", "MySQL", "Cassandra"]
+tools = ["Git", "Docker", "Jupyter", "VS Code"]
 ```
 
-## 📡 CONNECTIONS
+---
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/MIMOUNI-HICHAM)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hicham-mimouni-118b01200)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mimouni.hicham.2002@gmail.com)
+### 🔥 Highlight Reel
 
-## 📊 CYBER STATS
+💧 **Smart Irrigation**  
+Revolutionized farming with satellite-driven water optimization — 35% boost in efficiency.  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIMOUNI-HICHAM&show_icons=true&theme=tokyonight)](https://github.com/MIMOUNI-HICHAM)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MIMOUNI-HICHAM&theme=tokyonight)](https://git.io/streak-stats)
+🧠 **Darija Translator**  
+Gave Moroccan dialects a voice in English. NLP meets local culture.  
 
-> "THE MATRIX HAS YOU..."
+🏥 **Digital Health Hub**  
+Transformed outdated bureaucracy into instant access — 90% faster retrieval.  
+
+🗣️ **Mental Health in the Metaverse**  
+AI chatbot with voice input, empathy, and vibes.  
+
+🍝 **Restaurant Autopilot**  
+Cut admin overhead, boosted flavor. Built in Java, powered by logic.
+
+---
+
+### 🌐 Find Me Around
+
+- 🐙 [GitHub](https://github.com/MIMOUNI-HICHAM)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hicham-mimouni-118b01200)
+- 📬 mimouni.hicham.2002@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MIMOUNI-HICHAM&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMOUNI-HICHAM&theme=tokyonight" />
+</p>
 ```
+
+---
