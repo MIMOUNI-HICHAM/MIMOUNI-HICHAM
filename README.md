@@ -16,25 +16,6 @@
 - 🌍 Crafting web systems that live, scale, and evolve
 - 💡 Big on ideas, bigger on execution
 
-### 🔥 Highlight Reel
-
-💧 **Smart Irrigation**  
-Revolutionized farming with satellite-driven water optimization — 35% boost in efficiency.  
-
-🧠 **Darija Translator**  
-Gave Moroccan dialects a voice in English. NLP meets local culture.  
-
-🏥 **Digital Health Hub**  
-Transformed outdated bureaucracy into instant access — 90% faster retrieval.  
-
-🗣️ **Mental Health in the Metaverse**  
-AI chatbot with voice input, empathy, and vibes.  
-
-🍝 **Restaurant Autopilot**  
-Cut admin overhead, boosted flavor. Built in Java, powered by logic.
-
----
-
 ### 🌐 Find Me Around
 
 - 🐙 [GitHub](https://github.com/MIMOUNI-HICHAM)
