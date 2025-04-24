@@ -28,3 +28,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMOUNI-HICHAM&theme=tokyonight" />
 </p>
+![Visitors](https://komarev.com/ghpvc/?username=MIMOUNI-HICHAM&color=blue&style=for-the-badge)
