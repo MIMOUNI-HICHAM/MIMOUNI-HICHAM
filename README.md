@@ -27,5 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMOUNI-HICHAM&theme=tokyonight" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MIMOUNI-HICHAM&style=for-the-badge&color=blue" />
 </p>
-![Visitors](https://komarev.com/ghpvc/?username=MIMOUNI-HICHAM&color=blue&style=for-the-badge)
